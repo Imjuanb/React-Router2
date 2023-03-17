@@ -1,0 +1,30 @@
+.image {
+    padding-top: 1rem;
+    width: 400px;
+}
+
+.active {
+    color: red;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.selection {
+    padding-top: 150px;
+    flex-direction: column;
+    width: 20%;
+}
+
+.butt {
+    border-radius: 8px;
+    margin-top: 60px;
+    margin-left: 125px;
+}
+
+.butt:hover {
+    background-color: #767776; /* Green */
+  color: white;
+}
